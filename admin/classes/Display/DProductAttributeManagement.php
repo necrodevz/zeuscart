@@ -34,7 +34,7 @@
 {
  	 function displayProductAttributes()
 	{
-	   $sql='select * from attrib
+	   $sql='select * from attrib';
 	    
 	}
 }

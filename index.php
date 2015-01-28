@@ -33,11 +33,11 @@ define("CURRENT_FOLDER",'main');
 	include_once(ROOT_FOLDER.'Bin/Security.php');
 	$obj=new Bin_Configuration();
 
-	if($obj->config['HOST']=='') 
+	/*if($obj->config['HOST']=='') 
 	{
 		header('Location: install/index.php');
 		exit();
-	}
+	}*/
 
 
 ?>

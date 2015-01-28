@@ -58,7 +58,7 @@
 					</form>";
 					echo ($prin);
 	  }
-	  function showEbuillionFormm
+	  function showEbuillionFormm();
 }
 ?>
 
